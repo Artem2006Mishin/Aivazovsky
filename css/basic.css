@@ -21,6 +21,11 @@ ul {
 	padding: 0;
 }
 
+h1,
+p {
+	margin: 0;
+}
+
 .container {
 	max-width: 970px;
 	margin: 0 auto;
